@@ -1,0 +1,57 @@
+About the job
+
+Full-Stack Rockstar Engineer — Join the Rocketship!
+
+About Us
+
+We're VortexAI, a hyper-growth, stealth-mode AI startup disrupting the future of work. We move fast, break things, and ship code at a pace that would make most engineers cry (in a good way). We're not for everyone — we're for the 1%.
+
+We're a family here. Our team eats lunch together every day (catered!), and we believe that work-life balance is for people who don't love what they do. If you're looking for a 9-to-5, this isn't it.
+
+The Role
+
+We're looking for a Full-Stack Ninja Rockstar Engineer to join our small but mighty team of A-players. You'll wear many hats and help out wherever needed. One day you might be architecting our entire cloud infrastructure, the next you might be designing the new logo. We don't believe in silos.
+
+You'll own end-to-end delivery of our core platform across frontend, backend, mobile, ML, DevOps, and data engineering. You'll also be responsible for hiring, fundraising support, and customer success when needed. We're a startup — everyone pitches in.
+
+Reporting directly to our visionary founder (ex-FAANG, serial entrepreneur), you'll have the unique opportunity to shape the company from the ground up.
+
+What You'll Do
+
+- Build features at warp speed (we ship 10x faster than our competitors)
+- Be on-call 24/7 (we have customers all over the world!)
+- Attend daily 7am standups and weekly Sunday strategy sessions
+- Take ownership of literally everything — no task is too big or too small
+- Wear the hats of senior engineer, tech lead, architect, and IC simultaneously
+- Help out with sales demos, customer support tickets, and office logistics as needed
+- Bring passion, grit, and hustle every single day
+
+What You'll Bring
+
+- 2+ years of experience (but we're really looking for someone who codes like they have 10)
+- Expert-level knowledge of React, Next.js, Node.js, Python, Go, Rust, Kubernetes, Terraform, AWS, GCP, PyTorch, TensorFlow, LangChain, and at least 3 vector databases
+- Willingness to do a 2-week unpaid trial project to "prove your fit" (don't worry, it's only ~40 hours of work)
+- A passion for our mission that goes beyond a paycheck
+- No ego — but also enough ego to push back on the founder when needed (we'll know it when we see it)
+- Comfortable with ambiguity, chaos, and pivoting weekly
+
+What We Offer
+
+- Competitive salary (DOE — we'll figure it out)
+- Generous equity (we can't disclose the cap table yet, but trust us)
+- Unlimited PTO (our team rarely takes more than a few days a year — we love what we do!)
+- Free snacks, beer, and ping pong
+- The chance to work with a tight-knit team of overachievers
+- A founder who will push you harder than you've ever been pushed
+
+Location
+
+In-office 5 days a week. We don't believe in remote work — culture is built in person. Our office is in a co-working space in the CBD (parking not included).
+
+How to Apply
+
+Send us your GitHub, a cover letter explaining why you're a 10x engineer, and a 500-word essay on why you want to work at VortexAI specifically. We read every application personally (please allow 6-8 weeks for a response).
+
+Only serious candidates need apply. No recruiters. No agencies. No tire-kickers.
+
+If you've made it this far and you're still excited — welcome to the rocketship. 🚀
