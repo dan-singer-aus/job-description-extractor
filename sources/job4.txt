@@ -1,0 +1,91 @@
+We’re transforming home lending with world‑class, cloud‑native engineering.
+
+You have deep full‑stack skills across .NET & React, Node.js, Next.js, Next.js and DevSecOps.
+
+Together we build fair, fast, scalable platforms used by millions of customers. 
+
+Do work that matters:
+
+We're building tomorrow’s bank today, which means we need creative and diverse engineers to help us redefine what customers expect from a bank.
+
+As a Staff Software Engineer in the Core Lending Software Engineering Chapter, you’ll work at the very centre of the Home Lending ecosystem, building the core services every loan application depends on. This team owns the platforms that define key terms and conditions, assess credit risk, and determine the right product for each customer, with capabilities embedded into every home loan offering.
+
+You’ll be a hands‑on, full‑stack, full‑cycle engineer across .NET and React/Node.js/Next.js, leading architecture and complex system design that scales across millions of customer journeys. These systems are used at every stage of the Home Lending lifecycle, making the work both technically deep and business‑critical.
+
+The impact of this role extends well beyond a single team. You’ll lead across multiple core trios, drive technical strategy and standards, and take end‑to‑end ownership in a DevSecOps model by building, running and continuously improving the products your squad owns. As a software engineering subject matter expert, you’ll mentor engineers, guide high‑stakes technical decisions, and help drive major technology, AI and process transformation initiatives. Through active collaboration, POCs and technical forums, you’ll shape engineering culture while delivering platforms that influence how fair, fast and reliable home lending is delivered at scale.
+
+
+
+See yourself in our team:  
+
+We are the Core Lending Software Engineering Chapter, building the foundational platforms that power every Meridian home loan application. Our systems define core loan terms and conditions, assess valuation and credit risk, and determine the right product for each customer.
+
+These capabilities sit at the centre of the Home Lending ecosystem and are used at every stage of the loan application lifecycle, embedded across all home loan offerings. Working across .NET and React/Node.js/Next.js, we design highly resilient, scalable services where accuracy, performance and trust are non‑negotiable, because millions of customer decisions depend on what we build.
+
+As part of the wider Core Lending Crew, underpinned by the Group’s Technical Home Lending Domain, we think and act at scale. We own our platforms end‑to‑end in a true DevSecOps build‑run‑improve model, lead technical standards across multiple core trios, and drive major technology, AI and process transformation. Through strong collaboration, mentoring and technical leadership, we shape engineering culture and deliver platforms that make home lending fairer, faster and more reliable for our customers.
+
+We’re interested in hearing from people who: 
+
+Lead solution designing/ architecting, technical delivery across Credit Risk domains, acting as a trusted engineering SME for secure, scalable, cloud‑native platforms.
+
+Stay hands‑on delivering modern full‑stack capabilities using .NET, C#, react, node.js/ Next.js, SQL and API integrations within AWS‑based cloud environments.
+
+Set and embed consistent engineering patterns, standards and best practices that lift quality, speed and maintainability across teams.
+
+Own and optimise end‑to‑end customer journeys, designing intuitive digital solutions that remove friction and deliver measurable customer value.
+
+Maintain high‑performance microservices and data‑access layers with a strong focus on resilience, scalability, security and operational excellence.
+
+Champion DevSecOps excellence, including CI/CD pipelines, automated testing, cloud observability, secure coding and a true “you build it, you run it” mindset.
+
+Collaborate closely with product, design and business stakeholders to translate complex requirements into elegant, practical engineering outcomes.
+
+Work closely with SaaS providers, peers with skill sets and bring the whole team together for success
+
+Mentor and uplift engineers while driving modern engineering practices, including the adoption of AI‑assisted development to accelerate delivery and innovation.
+
+
+
+Tech skills 
+
+We don't expect you to know everything, but experience in several of the following will set you up for success:
+
+Back-end: C#, .NET, Node.js/ Next.js
+
+Front-end: JavaScript, react
+
+Cloud & Architecture: AWS cloud-native engineering, microservices, distributed systems, scalable REST API architectures, distributed messaging (Kafka)
+
+Databases: PostgreSQL, Oracle, SQL server, schema design, performance optimisation, data-access patterns
+
+DevOps & Automation: CI/CD pipelines, GitHub Actions, TeamCity, DevSecOps, build and release automation
+
+Containers & Runtime: Docker, Kubernetes, ECS, container orchestration and deployment
+
+Monitoring & Observability: Prometheus, Grafana, Splunk, Observe, AWS CloudWatch
+
+AI-Enhanced Engineering: GenAI tools (Cline, Claude, Github Copilot), AI/ML and LLM integration awareness
+
+
+
+Company profile
+Company Logo for Meridian Bank
+
+Meridian Bank 
+3.6
+·
+940 reviews
+Banking & Credit
+More than 10,000 employees
+Meridian Bank is Australia’s leading provider of financial services. With customers at the heart of everything we do, we’re focused on helping people and businesses move forward financially. We are driven to deliver seamless experiences, in smart, innovative ways.
+
+Our 40,000+ people bring their different backgrounds and unique perspectives to our collaborative environment. It’s what makes Meridian Bank a place of opportunity, where your skills can take you in unexpected directions and you can achieve great things.
+
+Ever wondered what it’s like to work at one of Australia’s Most Innovative companies? Hear what our people have to say about #MeridianLife on Instagram, LinkedIn and Twitter.
+
+Meridian Bank is Australia’s leading provider of financial services. With customers at the heart of everything we do, we’re focused on helping people and businesses move forward financially. We are driven to deliver seamless experiences, in smart, innovative ways.
+
+Our 40,000+ people bring their different backgrounds and unique perspectives to our collaborative environment. It’s what makes Meridian Bank a place of opportunity, where your skills can take you in unexpected directions and you can achieve great things.
+
+Ever wondered what it’s like to work at one of Australia’s Most Innovative companies? Hear what our people have to say about #MeridianLife on Instagram, LinkedIn and Twitter.
+
