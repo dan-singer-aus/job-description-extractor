@@ -1,0 +1,58 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+# Least privilege: CI only ever reads the repo.
+permissions:
+  contents: read
+
+# A new push to a branch makes the in-flight run obsolete — cancel it.
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  ci:
+    name: lint, typecheck, test, build
+    runs-on: ubuntu-latest
+
+    steps:
+      # Consider pinning these to commit SHAs rather than tags — a moved tag is
+      # the supply-chain hole that .npmrc's ignore-scripts is guarding against.
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version-file: .nvmrc
+          cache: npm
+
+      # `npm ci` installs straight from package-lock.json, so .npmrc's `before`
+      # cutoff doesn't re-resolve anything — the lockfile is the pin. Its
+      # ignore-scripts=true still applies, which is what we want in CI too.
+      - name: Install
+        run: npm ci
+
+      - name: Lint
+        run: npm run lint
+
+      - name: Typecheck
+        run: npx tsc --noEmit
+
+      # Unit tests only — these drive every branch through the fake provider,
+      # so no network and no API keys. The eval suite is deliberately NOT run
+      # here: it makes real, billed calls and is non-deterministic.
+      - name: Test
+        run: npm test -- --run
+
+      # The API route builds both providers at module scope, and those modules
+      # throw on a missing key at import time — which `next build` triggers when
+      # it collects routes. These placeholders only get the module constructed;
+      # nothing here makes a network call.
+      - name: Build
+        run: npm run build
+        env:
+          OPENAI_API_KEY: ci-placeholder-not-a-real-key
+          ANTHROPIC_API_KEY: ci-placeholder-not-a-real-key
