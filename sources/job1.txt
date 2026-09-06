@@ -1,0 +1,72 @@
+About the job
+Why Bluewren?
+
+At Bluewren, we’re into business big time. Through our integrated payments, banking and lending solutions, we’re here to ensure nothing stands in the way of Australian business success. With over 15 years' experience under our belt, we know what it takes to build something great, which is why we combine the best people, technology, and partners to deliver simplified payments and seamless business banking to our customers. We’re proud to power more than 60,000 merchants across Australia and to work with almost 500 partners to create seamless experiences for hospitality, retail, services and health providers.
+
+It starts with You.
+
+Just like our customers, we’re obsessed with the success of our people. So, when you come onboard, we’ll give you all the support you need to do your best work. Our close to 450 Bluewrens are a highly collaborative team, so you’ll get to work with smart, motivated and friendly people across Bluewren. We are fast paced and innovative and strive to live our values everyday – aim high, stay curious, delight the customer, do the right thing and win together! We are big enough for you to have opportunities to have a career at Bluewren and small enough that you can have a real impact. As we continue our mission to shake things up and make payments the easiest part of doing business, you’ll have the opportunity to learn new skills with hands-on experience, further your career, and help unleash the potential of our customers, one payment at a time.
+
+🎥 Step inside life at Bluewren here.
+
+About The Role
+
+At Bluewren Health, we’re transforming the way Australian healthcare businesses manage payments and claims. We provide innovative EFTPOS and payment solutions that keep things moving seamlessly.
+
+What You'll Do
+
+Execute & Learn: Develop and ship features for the Bluewren Health web experience under the guidance of senior mentors.
+Feature Delivery: Build out new functionality for healthcare patients and insurers, ensuring code is clean, tested, and maintainable.
+SDK Support: Assist in maintaining and extending our JavaScript SDKs used by our partner network.
+UI/UX Collaboration: Work closely with our Design System to implement consistent, high-quality UI components.
+Quality Assurance: Write unit and integration tests to ensure our platforms remain stable and reliable.
+Collaborate: Participate in daily stand-ups, sprint planning, and design hand-off sessions to understand the "why" behind the "what."
+Code Quality: Engage in code reviews to both learn from peers and provide fresh perspectives on our codebase.
+
+What You'll Bring
+
+Foundational Knowledge: A strong understanding of JavaScript, HTML, and CSS. You should be comfortable with React and have an interest in TypeScript.
+Hands-on Experience: You’ve completed a relevant degree, a rigorous bootcamp, or have 1–2 years of experience. We love seeing GitHub repos, hackathon wins, or internship projects.
+Use of agentic tooling: Cursor and Claude are not just buzzwords for you and you know how to use them in your development practice.
+Full-Stack Curiosity: Basic exposure to backend technologies (Node.js, Express) and an understanding of how to query databases (SQL or NoSQL).
+Tooling Familiarity: Experience using Git for version control and an understanding of how NPM/Yarn works.
+Growth Mindset: A hunger to learn. You don’t need to know everything, but you need to know how to ask the right questions and research solutions.
+Empathy: An interest in building inclusive interfaces. You understand that accessibility isn't just a "nice to have," it's essential for healthcare.
+Problem-Solving: Strong logical thinking skills and the ability to debug code methodically.
+Fintech Interest: An interest in the intersection of health and finance, with a high degree of care for data security and accuracy.
+
+Technologies you’ll work with (and learn!)
+
+Frontend: React (Hooks, Context), TypeScript, Zod and Tanstack
+Backend: Node.js, Express, RESTful APIs, and some GraphQL.
+Testing: Playwright and React Testing Library.
+Infrastructure: AWS services and CI/CD pipelines (GitHub Actions/Buildkite).
+Tooling: Vite, esbuild, and AI-augmented tools like GitHub Copilot and Cursor/Claude etc. 
+
+Why you’ll love working with us at Bluewren Health
+
+Be part of a passionate team driving positive change in the health sector, where you’ll have the opportunity to learn, grow, and thrive in a supportive environment - and bring your ideas to a company that values fresh thinking and initiative. Join Bluewren Health, where innovation meets purpose, and help thousands of practices deliver better experiences for their patients.
+
+What’s in it for you?
+
+We’ve worked hard to create an environment that’s big on diversity, inclusion, and flexibility, and one that suits the changing needs of team members across Australia. Here are just some of the things Bluewrens tell us they love about working here.
+
+You’ll Also Receive
+
+A mix of in-office and remote working (3 days in office)
+Learning and career development opportunities
+18 weeks paid primary carers leave
+12 weeks paid secondary carers leave
+Annual team-based volunteer day
+Birthday Leave
+Recharge Day (Additional day of leave)
+Weekly team social events, snacks, craft beer and wine, ping pong and video games
+Taco Tuesdays
+Mental health and wellness initiatives
+Novated leasing
+
+Bluewren is committed to a diverse, inclusive workplace where everyone thrives. We welcome applicants of all backgrounds and are an equal opportunity employer. If you need accommodations or adjustments at any stage of the recruitment process, simply inform our Talent team during your conversation with them.
+
+Still with us?
+
+If you’ve got this far, then you might just be a great fit for us. Don’t tick all the boxes above? That’s ok, apply anyway and our Talent team will review your profile - you might be a fit for future roles.
